@@ -6,8 +6,8 @@ Explore Batam adalah platfrom website inovatif yang menjadi pusat informasi bagi
 
 Explore Batam Team:
 
-Khairunnisa Munawwarah_ 2101020001 (Programmer dan Designer)
-Ariska Dwi Ambarwati_ 2101020002 (Programmer dan Designer)
-Novriyanti Rahmadani_ 2101020010 (Programmer dan Designer)
-Faujiah Decika_ 2101020058 (Designer)
-Ghaniyah Rahmayanti_ 2101020060 (Designer)
+1. Khairunnisa Munawwarah_ 2101020001 (Programmer dan Designer)
+2. Ariska Dwi Ambarwati_ 2101020002 (Programmer dan Designer)
+3. Novriyanti Rahmadani_ 2101020010 (Programmer dan Designer)
+4. Faujiah Decika_ 2101020058 (Designer)
+5. Ghaniyah Rahmayanti_ 2101020060 (Designer)
